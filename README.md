@@ -1,6 +1,6 @@
 # INTRODUCTION
 
-This repository is dedicated to all my Excel based projects. Each project folder within this repository has its on README.md file that briefly describes about the project and a link to my shared google drive. Feel free to reach out for any questions.
+This repository is dedicated to all my Excel based projects. Each project folder within this repository has its on README.md file that briefly describes about the project and a link to a shared excel file in my Microsoft OneDrive. Feel free to reach out for any questions or if you cant access the file.
 
 
 ## 🔗 Links
