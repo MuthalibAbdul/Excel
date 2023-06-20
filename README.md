@@ -1,6 +1,4 @@
-![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj28uE4OWI4uwvqKZ6PvzqWAfImx82F8xYKA&usqp=CAU)
-
-
+![Logo](https://concepto.de/wp-content/uploads/2018/09/excel3-e1537469723415.jpg)
 # INTRODUCTION
 
 This repository is dedicated to all my Excel based projects. Each project folder within this repository has its on README.md file that briefly describes about the project and a link to a shared excel file in my Microsoft OneDrive. Feel free to reach out for any questions or if you cant access the file.
