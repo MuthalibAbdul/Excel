@@ -4,9 +4,9 @@ This repository is dedicated to all my Excel based projects. Each project folder
 
 
 ## 🔗 Links
-Project 1 - Battle Ships (GAME) - https://depauledu-my.sharepoint.com/:x:/r/personal/mabdul1_depaul_edu/_layouts/15/Doc.aspx?sourcedoc=%7B3E80EF33-268F-4520-AC25-89C9E85C8550%7D&file=Battleships%20Final.xlsx&action=default&mobileredirect=true
+Project 1 - Battle Ships (GAME) - https://onedrive.live.com/edit.aspx?resid=8E5324FE5B97FD53!121&cid=8e5324fe5b97fd53&authkey=!AEs6TUJudBQUC0E&CT=1687219550653&OR=ItemsView
 
-Project 2 - Bike Sales Analysis - 
+Project 2 - Bike Sales Analysis - https://onedrive.live.com/edit.aspx?resid=8E5324FE5B97FD53!114&cid=8e5324fe5b97fd53&authkey=!AEs6TUJudBQUC0E&CT=1687218954610&OR=ItemsView
 
 Thank You, 
 Muthalib Abdul
