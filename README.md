@@ -1,3 +1,6 @@
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj28uE4OWI4uwvqKZ6PvzqWAfImx82F8xYKA&usqp=CAU)
+
+
 # INTRODUCTION
 
 This repository is dedicated to all my Excel based projects. Each project folder within this repository has its on README.md file that briefly describes about the project and a link to a shared excel file in my Microsoft OneDrive. Feel free to reach out for any questions or if you cant access the file.
