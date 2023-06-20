@@ -9,5 +9,9 @@ Project 1 - Battle Ships (GAME) - https://onedrive.live.com/edit.aspx?resid=8E53
 
 Project 2 - Bike Sales Analysis - https://onedrive.live.com/edit.aspx?resid=8E5324FE5B97FD53!114&cid=8e5324fe5b97fd53&authkey=!AEs6TUJudBQUC0E&CT=1687218954610&OR=ItemsView
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://muthalibabdul.github.io/Main.Portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muthalibabdul/)
+
 Thank You, 
 Muthalib Abdul
